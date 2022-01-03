@@ -7,3 +7,23 @@ h1{
 .mahdisart{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.button-color{
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(14, 243, 14));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+
+}
